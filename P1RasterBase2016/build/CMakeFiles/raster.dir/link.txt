@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -std=c++0x -Wall -pedantic -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/raster.dir/src/Image.cpp.o CMakeFiles/raster.dir/src/main.cpp.o  -o raster 
